@@ -1,6 +1,7 @@
 # Profiler-for-FLIR-cameras
 This profiler can give real-time gaussian fit of optical spots.
 
+
 Chinese version:
 使用方法：
 1. 在本地安装相机驱动,运行文件夹中的SpinnakerSDK_FULL_4.0.0.116_x64.exe。
@@ -41,6 +42,7 @@ INTEL MKL ERROR: The specified module could not be found. mkl_intel_thread.2.dll
 Intel MKL FATAL ERROR: Cannot load mkl_intel_thread.2.dll.
 解决方案：
 将运行py文件的虚拟环境中（或没有虚拟环境就在base下），进入Library\bin文件夹，复制其中所有的mkl文件，粘贴到生成的exe所属文件夹下，即可正常运行。（如果没有，就先在该环境下pip install mkl和pip install mkl-service）
+
 
 
 English version:
