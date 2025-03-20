@@ -46,6 +46,7 @@ Intel MKL FATAL ERROR: Cannot load mkl_intel_thread.2.dll.
 
 
 English version:
+
 Usage Instructions:
 
 Install the camera driver locally and run SpinnakerSDK_FULL_4.0.0.116_x64.exe from the folder.
@@ -76,6 +77,8 @@ Software Versions:
 pyinstaller version: 6.7.0
 numpy version: 1.26.4
 About the Code (Running .py Files):
+
+----------------------------------------------------------------------------------------------
 
 How to Check Error Messages:
 Run the .exe file directly in the command prompt (cmd) to view error details.
