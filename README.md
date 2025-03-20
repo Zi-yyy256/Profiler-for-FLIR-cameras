@@ -2,7 +2,7 @@
 This profiler can give real-time gaussian fit of optical spots.
 
 
-Chinese version:
+# # Chinese version:
 使用方法：
 1. 在本地安装相机驱动,运行文件夹中的SpinnakerSDK_FULL_4.0.0.116_x64.exe。
 2. 连接相机，进入profiler文件夹：后缀PID指PID方法调整曝光，noPID指可以手动调整曝光。每个profiler文件夹中有相应的py文件。再进入dist文件夹，找到相应的exe文件，双击即可运行。
@@ -45,7 +45,7 @@ Intel MKL FATAL ERROR: Cannot load mkl_intel_thread.2.dll.
 
 
 
-English version:
+# # English version:
 
 Usage Instructions:
 
